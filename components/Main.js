@@ -1,0 +1,12 @@
+import React from "react"
+
+export default function Main () {
+    return (
+        <div>
+            <h1>hello world</h1>
+            <ul>
+                <li></li>
+            </ul>
+        </div>
+    )
+}
